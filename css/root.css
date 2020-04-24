@@ -1,0 +1,11 @@
+:root {
+    --color-text-white: #ffffff;
+    --color-dot: #891818;
+    --color-line: #000000;
+    --color-background: #000000;
+
+    --text-normal: 24px;
+    --text-mainTitle: 80px;
+    --text-title: 64px;
+    --text-small: 20px;
+}

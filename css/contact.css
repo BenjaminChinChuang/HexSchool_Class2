@@ -1,0 +1,27 @@
+.contact {
+    height: 317px;
+    padding: 64px;
+    box-sizing: border-box;
+    color: var(--color-text-white);
+    background-color: var(--color-background);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact>h1 {
+    line-height: 75px;
+    font-size: var(--text-title);
+    font-weight: bolder;
+    margin-bottom: 16px;
+}
+
+.contact>p {
+    line-height: 33px;
+    font-size: var(--text-normal);
+    margin-bottom: 16px;
+}
+
+.contact>p:last-child {
+    margin-bottom: 0px;
+}

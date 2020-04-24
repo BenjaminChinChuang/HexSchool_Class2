@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot {
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    background-color: var(--color-dot);
+}
+
+.line {
+    width: 384px;
+    height: 1px;
+    background-color: var(--color-line);
+    margin-bottom: 32px;
+}
